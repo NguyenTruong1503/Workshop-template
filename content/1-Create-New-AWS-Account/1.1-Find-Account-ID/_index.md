@@ -10,7 +10,7 @@ pre : " <b> 1.1 </b> "
 
 #### Finding your account ID as the root user
 
-You can find the AWS account ID using either the **AWS Management Console** or the **AWS Command Line Interface** (AWS CLI). In the console, the location of the account ID depends on whether you're signed in as the root user or an IAM user. The account ID remains the same whether you're signed in as the root user or an IAM user.
+Xin Chao You can find the AWS account ID using either the **AWS Management Console** or the **AWS Command Line Interface** (AWS CLI). In the console, the location of the account ID depends on whether you're signed in as the root user or an IAM user. The account ID remains the same whether you're signed in as the root user or an IAM user.
 
 #### Minimum Permissions
 
